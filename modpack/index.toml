@@ -71,6 +71,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
 metafile = true
@@ -88,6 +93,21 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
 metafile = true
 
 [[files]]
