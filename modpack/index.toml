@@ -56,6 +56,11 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "0b0d35245135d66aa93fb2ff250bb921a079cc1443590c0027bcffcb79fd769e"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "54968e302997818e3161506db9f83add8a29b415d216985c3a3bcd301bb9b7a2"
 metafile = true
