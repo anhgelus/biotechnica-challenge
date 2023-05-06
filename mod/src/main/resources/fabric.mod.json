@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "biotechnica",
+  "version": "${version}",
+  "name": "BioTechnica",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/anhgelus/mod"
+  },
+  "license": "AGPL-3.0",
+  "icon": "assets/biotechnica/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "world.anhgelus.biotechnica.client.BioTechnicaClient"
+    ],
+    "main": [
+      "world.anhgelus.biotechnica.BioTechnica"
+    ]
+  },
+  "mixins": [
+    "biotechnica.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
