@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "4cb615687a1b306692796291faad4967b3300b0d35de1c35cc5fa8f4c9aa806f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2905b7be42ac9c7c52eb1a5511ae67ebbff435f0630e93ace70b02ef6097d3d9"
 metafile = true
@@ -133,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "bc1e8aaf8446fd66c289cc498e421aa878a93f853ab888091fc12c662642aae2"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9c6b34118c4804127d1e71a7aa87464e231445ee1fc3f4f30f8e5901e89b57a7"
 metafile = true
 
 [[files]]
