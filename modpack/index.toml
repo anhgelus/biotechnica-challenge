@@ -209,6 +209,11 @@ hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "26e7f9777d8c1b0c27a879816a178d54d86afca1f2849c98c69d096396e7c8f6"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "b81fe78f7542f15fd7b5a0392e8e626c40dadd403bee2d92b47942b4ec2d4ce7"
 metafile = true
