@@ -12,10 +12,9 @@ BioTechnica Challenge is a Minecraft event like a Terminator (the opposite of th
 
 ## Content
 
-In this repo you will see two main folder:
+In this repo you will see one main folder:
 
 - The "modpack" folder
-- The "mod" folder
 
 ### Modpack folder
 
@@ -23,11 +22,4 @@ The modpack to play with, [Modrinth](https://modrinth.com/) format.
 
 Made with [packwiz](https://github.com/packwiz/packwiz/).
 
-### Mod folder
-
-The official mod of the BioTechnica Challenge.
-
-It just adds a compass pointing approximately to the heros.
-
-Made with [Fabric](https://fabricmc.net/) and [Fabric API](https://modrinth.com/mod/fabric-api/).
 

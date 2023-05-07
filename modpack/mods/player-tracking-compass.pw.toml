@@ -1,0 +1,13 @@
+name = "Player Tracking Compass"
+filename = "playertrackingcompass-1.19.4-3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mSuqFRIc/versions/EdIQOkjk/playertrackingcompass-1.19.4-3.0.jar"
+hash-format = "sha1"
+hash = "50799705d399081bce97bf44b55ed21e6914de0e"
+
+[update]
+[update.modrinth]
+mod-id = "mSuqFRIc"
+version = "EdIQOkjk"
