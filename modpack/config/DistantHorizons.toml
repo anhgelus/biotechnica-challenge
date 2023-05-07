@@ -62,7 +62,7 @@ _version = 1
 			rendererType = "DEFAULT"
 			# If true the F8 key can be used to cycle through the different debug modes. 
 			# and the F6 key can be used to enable and disable LOD rendering.
-			enableDebugKeybindings = false
+			enableDebugKeybindings = true
 			# Should specialized colors/rendering modes be used? 
 			#
 			# OFF: Fake chunks will be drawn with their normal colors. 
