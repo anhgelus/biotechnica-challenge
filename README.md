@@ -22,4 +22,10 @@ The modpack to play with, [Modrinth](https://modrinth.com/) format.
 
 Made with [packwiz](https://github.com/packwiz/packwiz/).
 
+## Credits
+
+Thanks to
+
+- @SuperNoobYT for the configuration of CraftPresence!
+- @aypierre42 for the configuration of the Complementary Shader
 
