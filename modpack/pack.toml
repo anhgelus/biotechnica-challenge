@@ -1,6 +1,6 @@
 name = "BioTechnica-Challenge"
 author = "Anhgelus Morhtuuzh"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "78a0529bd716b01a6bd21b26d5e7d4c2ca08f580e6f108d5e245b6f144af6069"
 
 [versions]
-fabric = "0.14.19"
+quilt = "0.17.6"
 minecraft = "1.19.4"
