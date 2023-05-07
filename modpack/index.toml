@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "88278118e6272cf05aa551b77ee7aefd1a41b84551fceef0a0cc8e8c11e6247b"
+hash = "fcc9d2f082f9075dfc68dc116db22001e24d33a9197f6a36eeaf545c0ee6a32b"
 
 [[files]]
 file = "config/craftpresence.json"
@@ -116,6 +116,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
 metafile = true
 
 [[files]]
@@ -244,6 +249,11 @@ hash = "386178ffa6af52be1efae7c382b5249e963a741db87e17215220de10f52adaf6"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ab2998250862a150f5ef9766535808e288244a38b0aaaa213a1ac6753cd5ed01"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
 metafile = true
@@ -253,5 +263,17 @@ file = "resourcepacks/xali's Enhanced Vanilla v1.11.1.zip"
 hash = "470033e258ae5516a90c97d622d3031fec9f5fcd2746f350f37b6c59fcd6a824"
 
 [[files]]
+file = "shaderpacks/ComplementaryShaders_v4.7.1.zip"
+hash = "284e93ea11d18cd94ad421947e1b740b3237486b986daaa933e52424bc154da6"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.7.1.zip.txt"
+hash = "3e0866d3410891df53571323f7e0dd9c8b9c064c8ee740a42034c241b360f77b"
+
+[[files]]
 file = "shaderpacks/rethinking-voxels_beta18d.zip"
 hash = "3eadb0d6ec7cffbcf35717429079c6411b56c9dd3e2850eff669ce585c8702c9"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_beta18d.zip.txt"
+hash = "05175566af7f394fbf1c5d0a3f999d3f25f2f7de2fb268603c22ef3dc9359128"
