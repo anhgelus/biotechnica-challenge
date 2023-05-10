@@ -30,7 +30,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "1c50be4b4880dce02129ccfe092a4cb9a8d435592cdefb067e2bce2f0ed92b14"
+hash = "330784e73c624b85330857384bd6b339ca030b1de4db10b308db8fc6e02e2519"
 metafile = true
 
 [[files]]
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightcontrols.pw.toml"
-hash = "91d02b042634e0ae627cf13a60c3c7ca7e600156b45a3c997ed08842760731fc"
+hash = "7fb68f5ecc3627691d0fb564547e10c5ca203a1afd8ae28465708922d800d077"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
@@ -249,9 +249,8 @@ hash = "386178ffa6af52be1efae7c382b5249e963a741db87e17215220de10f52adaf6"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
+file = "mods/xaeros-world-map.pw.toml.disable"
 hash = "ab2998250862a150f5ef9766535808e288244a38b0aaaa213a1ac6753cd5ed01"
-metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
