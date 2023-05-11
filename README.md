@@ -29,6 +29,19 @@ Contains every datapacks needed by the BioTechnica Challenge.
 
 - **biotechnica-life** - managed the life of every players: unlimited for the killer (He must run `/function biotechnica-life:killer/i_am_the_killer` to become the killer) and one life for the heroes
 
+## Versioning
+
+The versioning used here is based on the [semver](https://semver.org).
+
+Rules:
+
+> Every version will follow this schem: `B.M.m-T`
+
+- `B` is the breaking change update. It will change when a breaking change will happened.
+- `M` is the major update. When a new feature comes, this number will change.
+- `m` is the minor update. When a patch comes, this number will change.
+- `T` is the type version. It has a unique ID for each project inside this repo: `modpack` for the modpack, `biotechnica-life` for the datapack with the same name.
+
 ## Credits
 
 Thanks to
