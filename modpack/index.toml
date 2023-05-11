@@ -9,35 +9,35 @@ file = "config/craftpresence.json"
 hash = "4cb615687a1b306692796291faad4967b3300b0d35de1c35cc5fa8f4c9aa806f"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/data/biotechnica-life/functions/heros/kill.mcfunction"
-hash = "b1d304b1a250274198c82c33856a29673eb552fefaa3ea8d27aeb30e30ec875b"
+file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/heros/kill.mcfunction"
+hash = "97b2f81fc6f74b46d7104f294137e7e2d7161c20530701b448cd3ed77e3cce06"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/data/biotechnica-life/functions/killer/i_am_the_killer.mcfunction"
+file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/killer/i_am_the_killer.mcfunction"
 hash = "bc881f70b8adb4acd9579bd030b76ddc451e378ed7aa73739d83347fcae6527f"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/data/biotechnica-life/functions/killer/revive.mcfunction"
+file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/killer/revive.mcfunction"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/data/biotechnica-life/functions/load.mcfunction"
+file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/load.mcfunction"
 hash = "b9193225d802e1ee7b71464303e15665f19e963a8df2744135721f1cb8fef4a9"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/data/biotechnica-life/functions/main.mcfunction"
+file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/main.mcfunction"
 hash = "980481ff51140be12417cd9a13031dd551eca538ee131539b3a83d4c8d0dc8ed"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/data/minecraft/tags/functions/load.json"
+file = "global_packs/required_data/biotechnica-life/data/minecraft/tags/functions/load.json"
 hash = "5337c37741c3901af0131498a951ed4c7c3b6464631cc613c956d3ea0a15859d"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/data/minecraft/tags/functions/tick.json"
+file = "global_packs/required_data/biotechnica-life/data/minecraft/tags/functions/tick.json"
 hash = "7dcc9740e63d1df4605007cca31cb5df5b311288a4ab83cc1b5a70bb0c9685c5"
 
 [[files]]
-file = "global_packs/required_datapacks/biotechnica-life/pack.mcmeta"
+file = "global_packs/required_data/biotechnica-life/pack.mcmeta"
 hash = "3cc1f7c9b9d44ea8ac991476e9840c36779ea5ee8339b655999d7dd117a5fa20"
 
 [[files]]
@@ -256,9 +256,8 @@ hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
+file = "mods/sodium-extra.pw.toml.disable"
 hash = "07fb66dcf550529ac910a66a1d7e57c26cb96d273387f22cd6fc4ad537790b10"
-metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
