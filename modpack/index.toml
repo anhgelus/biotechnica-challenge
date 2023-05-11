@@ -10,7 +10,7 @@ hash = "4cb615687a1b306692796291faad4967b3300b0d35de1c35cc5fa8f4c9aa806f"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/heros/kill.mcfunction"
-hash = "97b2f81fc6f74b46d7104f294137e7e2d7161c20530701b448cd3ed77e3cce06"
+hash = "f2e037781317c6d7281842bd7a22236b045400d281de177d76d00ff280e81b24"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/killer/i_am_the_killer.mcfunction"

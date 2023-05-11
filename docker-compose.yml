@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  minecraft:
+    image: itzg/minecraft-server:java17-alpine
+    env_file:
+      - .env
+    volumes:
+      - ./minecraft-data:/data
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    ports:
+      - 25565:25565
+      - 24454:24454/udp
+
