@@ -134,6 +134,11 @@ hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "de061a5a29cff93d94da09d3667b3dd60b7b99c13b296a5191aeb3c1bf5aa567"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
