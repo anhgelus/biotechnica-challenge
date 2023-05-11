@@ -12,15 +12,22 @@ BioTechnica Challenge is a Minecraft event like a Terminator (the opposite of th
 
 ## Content
 
-In this repo you will see one main folder:
+In this repo you will see two folder:
 
 - The "modpack" folder
+- The "datapacks" folder
 
 ### Modpack folder
 
 The modpack to play with, [Modrinth](https://modrinth.com/) format.
 
 Made with [packwiz](https://github.com/packwiz/packwiz/).
+
+### Datapacks folder
+
+Contains every datapacks needed by the BioTechnica Challenge.
+
+- **biotechnica-life** - managed the life of every players: unlimited for the killer (He must run `/function biotechnica-life:killer/i_am_the_killer` to become the killer) and one life for the heroes
 
 ## Credits
 
