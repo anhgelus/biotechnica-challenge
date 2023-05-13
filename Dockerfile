@@ -10,21 +10,22 @@ RUN cd mrpack-install && \
 
 FROM azul/zulu-openjdk-alpine:17-latest
 
-WORKDIR /data
+WORKDIR /
 
-RUN mkdir -p /app && mkdir -p /data/mc
+VOLUME /data 
+
+RUN mkdir -p /app
 
 COPY --from=builder /app/mrpack-install/mrpack-install /app/mrpack-install
 
-ARG MODPACK_LINK
-ARG MEMORY=4G
-ARG EULA=false
+COPY ./docker/start.sh /app/start.sh
 
-RUN touch /data/mc/eula.txt && echo $EULA=true | tee /data/mc/eula.txt
+ARG MODPACK_LINK
+ARG MEMORY
+ARG EULA
 
 EXPOSE 25565
 EXPOSE 24454
 
-CMD /app/mrpack-install $MODPACK_LINK && java -jar /data/mc/quilt-server-launch.jar nogui -Xmx $MEMORY -Xms 2G
-
+CMD sh /app/start.sh ${MODPACK_LINK} ${EULA} ${MEMORY}
 
