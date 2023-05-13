@@ -70,6 +70,7 @@ In this repo you will see two folder:
 
 - The "modpack" folder
 - The "datapacks" folder
+- The "docker" folder
 
 ### Modpack folder
 
@@ -82,6 +83,10 @@ Made with [packwiz](https://github.com/packwiz/packwiz/).
 Contains every datapacks needed by the BioTechnica Challenge.
 
 - **biotechnica-life** - managed the life of every players: unlimited for the killer (He must run `/function biotechnica-life:killer/i_am_the_killer` to become the killer) and one life for the heroes
+
+### Docker folder
+
+Everything related to Docker.
 
 ## Versioning
 
