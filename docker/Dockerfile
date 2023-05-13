@@ -18,7 +18,7 @@ RUN mkdir -p /app
 
 COPY --from=builder /app/mrpack-install/mrpack-install /app/mrpack-install
 
-COPY ./docker/start.sh /app/start.sh
+COPY ./start.sh /app/start.sh
 
 ARG MODPACK_LINK
 ARG MEMORY
