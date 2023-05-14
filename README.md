@@ -26,6 +26,8 @@ If you don't know wich launcher used, I recommend you to use the [PrismLauncher]
 
 There are two ways to install the modpack on the server side: [Docker](https://www.docker.com) and [mrpack-install](https://github.com/nothub/mrpack-install).
 
+After installing the server, don't forget to setup Simple Voice Chat by editing the file `config/voicechat/voicechat-server.properties` (necessary if you are using Docker or a custom setup) and to look at the [Player Tracking Compass](https://modrinth.com/mod/player-tracking-compass) mod.
+
 #### Docker
 
 Follow these steps to install it with Docker:
