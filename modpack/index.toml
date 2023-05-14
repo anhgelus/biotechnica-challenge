@@ -9,6 +9,10 @@ file = "config/craftpresence.json"
 hash = "4cb615687a1b306692796291faad4967b3300b0d35de1c35cc5fa8f4c9aa806f"
 
 [[files]]
+file = "config/replaymod.json"
+hash = "b9811151ffaecd3d68c20635fb33401bd436af023268f8fe9dd9e9a3985e1fe4"
+
+[[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/heros/kill.mcfunction"
 hash = "f2e037781317c6d7281842bd7a22236b045400d281de177d76d00ff280e81b24"
 
