@@ -3,7 +3,7 @@ FROM golang:1.19-alpine as builder
 WORKDIR /app
 
 RUN apk add git && \
-	git clone https://github.com/anhgelus/mrpack-install.git
+	git clone https://github.com/nothub/mrpack-install.git
 
 RUN cd mrpack-install && \
 	go build -o mrpack-install .

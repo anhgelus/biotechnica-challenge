@@ -52,8 +52,6 @@ Follow these steps to install the modpack with mrpack-install:
 4. Go into this folder `cd mc`
 5. Start the server with `java -jar quilt-server-launch.jar nogui`.
 
-:warning: Currently, the version of mrpack-install do not work with Quilt! I have made a PR fixing this issue. As long as this error was not fixed, use my fork available [here](https://github.com/anhgelus/mrpack-install).
-
 #### Generating the server with Docker but running it outside of Docker
 
 You don't want to install mrpack-install? 
