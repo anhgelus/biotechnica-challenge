@@ -35,9 +35,9 @@ Follow these steps to install it with Docker:
 1. Install Docker
 2. Clone the repo `git clone https://github.com/anhgelus/biotechnica-challenge.git`
 3. Go into the folder called "docker" inside the cloned repo `cd biotechnica-challenge/docker`
-4. Rename the `.env.exemple` into `.env` `mv .env.exemple .env`
+4. Rename the `.env.example` into `.env` `mv .env.example .env`
 5. Setup the environment variables inside the `.env`
-    * `MODPACK_LINK` - Direct link to download the modpack (get it from Modrinth). It should look like this `https://cdn.modrinth.com/data/t8UHSB82/versions/IDTqzFur/BioTechnica-Challenge-0.6.0.mrpack`
+    * `MODPACK_LINK` - Direct link to download the modpack (get it from Modrinth). It should look like this `https://cdn.modrinth.com/data/t8UHSB82/versions/IDTqzFur/BioTechnica-Challenge-0.6.0.mrpack` (outdated link here but the latest should look very similar to this)
     * `EULA` - Accept the Minecraft's EULA
     * `MEMORY` - The memory used by the server (at least 2G)
 6. And start the container ! `docker compose up -d --build`
