@@ -30,7 +30,11 @@ hash = "b9193225d802e1ee7b71464303e15665f19e963a8df2744135721f1cb8fef4a9"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/main.mcfunction"
-hash = "980481ff51140be12417cd9a13031dd551eca538ee131539b3a83d4c8d0dc8ed"
+hash = "846e3d9e14a9e907efb2b084c36f9066bf5c7f88ea7e9a8fd716e97fdfbfa28a"
+
+[[files]]
+file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/start.mcfunction"
+hash = "93f8718c2a017e2d6652ecb40871a57b65dc49a21dd111597e805d1182903a2b"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/minecraft/tags/functions/load.json"
