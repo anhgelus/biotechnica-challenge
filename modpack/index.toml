@@ -18,7 +18,7 @@ hash = "f2e037781317c6d7281842bd7a22236b045400d281de177d76d00ff280e81b24"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/killer/i_am_the_killer.mcfunction"
-hash = "bc881f70b8adb4acd9579bd030b76ddc451e378ed7aa73739d83347fcae6527f"
+hash = "d4338e226e42972feaaa034b335a8e612fb75c08b54ec316230adc531c353a82"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/killer/revive.mcfunction"
@@ -30,11 +30,11 @@ hash = "b9193225d802e1ee7b71464303e15665f19e963a8df2744135721f1cb8fef4a9"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/main.mcfunction"
-hash = "846e3d9e14a9e907efb2b084c36f9066bf5c7f88ea7e9a8fd716e97fdfbfa28a"
+hash = "41a3e2fae5a12d45c449f31ac505883797fa46eb11376fada5e0c555e5a33724"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/biotechnica-life/functions/start.mcfunction"
-hash = "93f8718c2a017e2d6652ecb40871a57b65dc49a21dd111597e805d1182903a2b"
+hash = "a5c659c544aaa53fca3d1d19b2c10d50b16917824dd5b828e11b8ed9aff75c32"
 
 [[files]]
 file = "global_packs/required_data/biotechnica-life/data/minecraft/tags/functions/load.json"
