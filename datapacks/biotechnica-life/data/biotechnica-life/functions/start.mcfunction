@@ -1,3 +1,4 @@
+time set 0
 clear @a
 kill @a
 scoreboard players reset @a death
