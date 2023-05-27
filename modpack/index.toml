@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/autohud.pw.toml"
-hash = "330784e73c624b85330857384bd6b339ca030b1de4db10b308db8fc6e02e2519"
+hash = "2914429d56607d1de8f1c9596f8919543c31d9b6d1411570037ed1c507c4a53e"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "fa625b7c1043f3d99320c912923fe5670edd3a4b405e94d4920638827762543b"
+hash = "8733447c9fac53455ec04b7027aa11ef5cdf226dfd4277953a88039dff28b21f"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "1b384950a418ec094f08dc04b9ffab1f00c9596d10d2220ddfbfd92930464fbd"
+hash = "a4249691a32b3d459fa46d2b4ab9f9dfb9608a2d1946d2d6366f0182e1617c9a"
 metafile = true
 
 [[files]]
@@ -240,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "5b242270eda128c7eb2cdcc29d9f8fe24a997241ef19093a0e1e5112bc0dcabb"
+hash = "e34a6d645bcfcb5a677159ac959b19ef3fde39a066f7164b565f8877bc3de525"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5f70762432ca96f1897d96f36b72f248ecd3ec48abe7dffad6e1b1375998508f"
+hash = "3cfc05fb0b8e65c629812676d771b2eac199bf3e13d64a06e6909f4743b00d0d"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b81fe78f7542f15fd7b5a0392e8e626c40dadd403bee2d92b47942b4ec2d4ce7"
+hash = "1075cdd7397b22a34442c522d339666ff175fb983cb66eaadae37b5daa56e21c"
 metafile = true
 
 [[files]]

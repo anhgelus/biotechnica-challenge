@@ -1,13 +1,13 @@
 name = "Auto HUD"
-filename = "autohud-4.0+1.19.4.jar"
+filename = "autohud-4.2+1.19.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/temczoTQ/versions/reoNwDVa/autohud-4.0%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/ljaWlVnm/autohud-4.2%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "236ff899c381cbc650820fc73d48db9021f00f11"
+hash = "d64a001ed07a3d3624ab6825a001951a053048c4"
 
 [update]
 [update.modrinth]
 mod-id = "temczoTQ"
-version = "reoNwDVa"
+version = "ljaWlVnm"
