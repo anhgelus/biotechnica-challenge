@@ -1,12 +1,12 @@
 name = "BioTechnica-Challenge"
 author = "Anhgelus Morhtuuzh"
-version = "0.8.0"
+version = "0.8.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e2af5780f683e461f6c9b8b70f6e7624278d8794409f93011a79c8988374be96"
+hash = "707180f0f33ba45df90dc9dc235cdef39e72d562e611035f07c85e6218cb3203"
 
 [versions]
 minecraft = "1.19.4"
